@@ -8,7 +8,8 @@ Initial public macOS Apple Silicon release for MChoice.
 
 Release asset:
 
-- `Candidate Profile Formatter-0.1.0-arm64.dmg`
+- Uploaded asset: `Candidate.Profile.Formatter-0.1.0-arm64.dmg`
+- Local DMG used for upload: `Candidate Profile Formatter-0.1.0-arm64.dmg`
 
 SHA-256 checksum:
 
